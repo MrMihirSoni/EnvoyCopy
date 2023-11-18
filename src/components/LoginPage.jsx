@@ -41,6 +41,7 @@ const LoginPage = () => {
                     <div>
                         <input onClick={formSubmit} style={{ ...inputButton, width: '100%' }} type="submit" value='Login' />
                     </div>
+                    <p>&lt;Here You can write anything and do submit/&gt;</p>
                 </form>
                 }
             </div>
